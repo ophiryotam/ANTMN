@@ -1,5 +1,6 @@
 # ANTMN V2
-# Author: Dror Walter & Yotam Ophir
+# Authors: Dror Walter & Yotam Ophir
+# Code arranged by Dror Walter
 # Creating Topic Model Networks (ANTMN Method): Supplementary code
 # To Cite:
 # Walter D. & Ophir Y. (2019) News Frame Analysis: an Inductive Mixed Method Computational Approach. Communication Methods and Measures. http://dx.doi.org/10.1080/19312458.2019.1639145
